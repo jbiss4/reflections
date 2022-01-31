@@ -2,3 +2,5 @@ I've been seeing a lot of Wordle data visualizations recently, especially about 
 
 
 ![letter frequency](img/letter-frequency.jpg)
+
+(link: https://www.reddit.com/r/dataisbeautiful/comments/sfqii7/letter_frequency_per_character_position_in/)
