@@ -3,4 +3,4 @@ Looking at how popular TikTok is, I wonder what this graph would look like if pl
 Another surprise was how low the number of Twitter users is. With how many government officials and high-profile celebrities use it daily, it seems like we collectively give their tweets morrre significance than there really is.
 Looking at the visualization, even though there are two blues, I feel the colors don't clash with each other and are able to show each platform with thier respective color very well. It also tells the reader what it means by active users, how many years for each platform, and the source of the number of users.
 
-![Social Media Users](img/SocialMediaUser.jpg)
+![Social Media Users](img/SocialMediaUsers.jpg)
